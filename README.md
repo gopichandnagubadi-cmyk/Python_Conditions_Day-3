@@ -31,6 +31,7 @@ A collection of beginner-friendly Python programs designed to improve logical th
 - Movie Ticket Price Calculator
 - Triangle Type Checker
 - Day of the Week Finder
+- Bank account eligibility check
 
 ---
 
