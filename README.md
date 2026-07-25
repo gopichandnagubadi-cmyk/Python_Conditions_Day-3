@@ -93,18 +93,6 @@ python filename.py
 
 This repository is created to practice Python fundamentals through real-world application-based problems. It helps build a strong foundation in programming, logical thinking, and coding interview preparation.
 
----
-
-## 📈 Future Improvements
-
-- Functions
-- Strings
-- Lists & Tuples
-- Dictionaries & Sets
-- File Handling
-- Exception Handling
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms (DSA)
 
 ---
 
